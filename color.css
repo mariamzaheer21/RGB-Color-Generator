@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: rgb(202, 229, 244);
+    color: white;
+}
+h1{
+    margin-top: 32px;
+    color: black;
+}
+h2{
+    margin-top: 28px;
+    color: black;
+}
+div{
+
+    height: 150px;
+    width: 420px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: auto;
+    background-color: white;
+}
+button{
+    margin-top: 22px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 6px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 2px solid rgb(21, 82, 168);
+}
